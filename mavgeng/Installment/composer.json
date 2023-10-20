@@ -1,0 +1,22 @@
+{
+    "name": "mavgeng/installment",
+    "description": "installment",
+    "version": "1.0",
+    "type": "oxideshop-module",
+    "homepage": "https://github.com/mavgeng",
+    "author": {
+        "name": "Eugene",
+        "email": "evgeniy.matveev07@gmail.com",
+        "homepage": "https://github.com/mavgeng"
+    },
+    "extra": {
+        "oxideshop": {
+            "target-directory": "mavgeng/Installment"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "mavgeng\\Installment\\": "../../../source/modules/mavgeng/Installment/"
+        }
+    }
+}

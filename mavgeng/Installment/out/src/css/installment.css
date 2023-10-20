@@ -1,0 +1,8 @@
+button.installment-btn-banner {
+    width: 250px;
+    height: 150px;
+    background-image: url('/modules/mavgeng/installment/out/src/img/installment_banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
